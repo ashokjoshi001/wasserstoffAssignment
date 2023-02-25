@@ -20,11 +20,10 @@ first create a folder and then run a command in terminal "npx crearte-react-app"
 for navigetion i used "react-dom-router librery", for map i used "react-simple-map" library, and for charts i used "recharts" library for styling i used SASS 
 
 ## Hosted Link...
+https://wasserstoff-assignment.vercel.app/
 
 ## GitHub Link...
-
-
-# Getting Started with Create React App
+https://github.com/ashokjoshi001/wasserstoffAssignment
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
